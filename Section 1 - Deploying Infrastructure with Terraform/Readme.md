@@ -1,4 +1,4 @@
-# Domain  - Deploying Infrastructure with Terraform
+# Domain  - Deploying Infrastructure with Terraform #
 
 The code mentioned in this document are used in the HashiCorp Certified Terraform Associate 2023 video course.
 
